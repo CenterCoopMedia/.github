@@ -1,11 +1,15 @@
 # Center for Cooperative Media
 
-An initiative of the College of Communication and Media at Montclair State University. Our mission is to grow and strengthen local and collaborative journalism in New Jersey and beyond.
+An initiative of the **College of Communication and Media at Montclair State University**. Our mission is to grow and strengthen local and collaborative journalism in New Jersey and beyond.
 
-## About Us
+We work with journalists, news organizations, and communities to foster innovation in journalism and build sustainable models for local news.
 
-The Center for Cooperative Media is dedicated to supporting collaborative journalism and strengthening local news ecosystems. We work with journalists, news organizations, and communities to foster innovation in journalism and build sustainable models for local news.
+## Get Involved
+
+- **Contribute** — See our [contribution guidelines](https://github.com/CenterCoopMedia/.github/blob/main/CONTRIBUTING.md) for how to participate in our open-source projects.
+- **Report issues** — Found a bug or have a suggestion? Open an issue in the relevant repository.
 
 ## Learn More
 
-Visit our website: [centerforcooperativemedia.org](https://www.centerforcooperativemedia.org)
+- [centerforcooperativemedia.org](https://www.centerforcooperativemedia.org)
+- [Montclair State University — College of Communication and Media](https://www.montclair.edu/communication-and-media/)
