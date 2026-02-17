@@ -1,15 +1,17 @@
 # .github
 
-This is the `.github` repository for the Center for Cooperative Media organization on GitHub.
+Organization-wide GitHub configuration for the **Center for Cooperative Media**.
 
-## Purpose
+## What's in this repo
 
-This repository contains organization-wide GitHub configuration and the profile README that appears on the organization's main page.
+| Path | Purpose |
+|------|---------|
+| `profile/README.md` | Public organization profile shown on [github.com/CenterCoopMedia](https://github.com/CenterCoopMedia) |
+| `CONTRIBUTING.md` | Organization-wide contribution guidelines |
+| `CODE_OF_CONDUCT.md` | Code of conduct for all repositories |
+| `ISSUE_TEMPLATE/` | Shared issue templates |
+| `PULL_REQUEST_TEMPLATE.md` | Default pull request template |
 
-## Organization Profile
+## About
 
-The content in `profile/README.md` is displayed on the Center for Cooperative Media organization page at [github.com/CenterCoopMedia](https://github.com/CenterCoopMedia).
-
-## About the Center for Cooperative Media
-
-An initiative of the College of Communication and Media at Montclair State University. Our mission is to grow and strengthen local and collaborative journalism in New Jersey and beyond.
+See the [organization profile](profile/README.md) for information about the Center for Cooperative Media.
