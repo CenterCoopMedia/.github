@@ -9,9 +9,9 @@ Organization-wide GitHub configuration and profile for the **Center for Cooperat
 | `profile/README.md` | Organization profile displayed on [github.com/CenterCoopMedia](https://github.com/CenterCoopMedia) |
 | `CONTRIBUTING.md` | Default contributing guidelines for all org repos |
 | `CODE_OF_CONDUCT.md` | Contributor Covenant code of conduct |
-| `ISSUE_TEMPLATE/` | Bug report and feature request issue templates |
-| `PULL_REQUEST_TEMPLATE.md` | Default pull request template |
-| `FUNDING.yml` | Sponsor/funding button configuration |
+| `.github/ISSUE_TEMPLATE/` | Bug report and feature request issue templates |
+| `.github/PULL_REQUEST_TEMPLATE.md` | Default pull request template |
+| `.github/FUNDING.yml` | Sponsor/funding button configuration |
 
 ## How It Works
 

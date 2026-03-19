@@ -20,7 +20,7 @@ The Center for Cooperative Media supports collaborative journalism and strengthe
 ## Get Involved
 
 - **Website:** [centerforcooperativemedia.org](https://www.centerforcooperativemedia.org)
-- **Twitter/X:** [@CenterCoopMedia](https://twitter.com/CoopMedia)
+- **Twitter/X:** [@CoopMedia](https://twitter.com/CoopMedia)
 - **Newsletter:** [Sign up for updates](https://www.centerforcooperativemedia.org)
 
 ## Contributing

@@ -34,7 +34,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders at [centerforcooperativemedia.org](https://www.centerforcooperativemedia.org).
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders by emailing [centerforcooperativemedia@montclair.edu](mailto:centerforcooperativemedia@montclair.edu) or via the contact form at [centerforcooperativemedia.org/contact](https://www.centerforcooperativemedia.org/contact/).
 
 All complaints will be reviewed and investigated promptly and fairly.
 
