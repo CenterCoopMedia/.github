@@ -22,7 +22,7 @@ We are committed to making participation in Center for Cooperative Media project
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by opening an issue or contacting the repository maintainers. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing [centerforcooperativemedia@montclair.edu](mailto:centerforcooperativemedia@montclair.edu) or via the contact form at [centerforcooperativemedia.org/contact](https://www.centerforcooperativemedia.org/contact/). All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
 
 ## Attribution
 
